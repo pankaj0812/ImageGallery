@@ -14,6 +14,7 @@ body{
 	height: 500px;
 	margin: 0px auto;
 	border-radius: 3px;
+	background: #000;
 }
 #thumbs{
 	width: 113px;
@@ -27,6 +28,7 @@ body{
 }
 .thumbs_style{
 	margin-bottom: 5px;
+	transition: margin-left 0.1s linear;
 }
 .thumbs_style img{
 	width: 105px;
