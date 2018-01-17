@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$('#thumbs').niceScroll();
 	var image,list;
 	var name="1 (1).jpg";
 	var img_index= 0;
