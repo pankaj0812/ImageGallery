@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+#main{
+	background: #333;
+	width: 100%;
+	height: 570px;
+	padding-top: 50px;
+}
+#content{
+	background: #000;
+	width: 980px;
+	height: 500px;
+	margin: 0px auto;
+	border-radius: 3px;
+}
+#thumbs{
+	width: 113px;
+	height: 495px;
+	border: 1px solid #fff;
+	float: left;
+	padding-top: 5px;
+	margin-left: 5px;
+	padding-right: 10px;
+}
+.thumbs_style{
+	margin-bottom: 5px;
+}
+.thumbs_style img{
+	width: 105px;
+	height: 80px;
+	border-radius: 3px;
+	border:3px solid #333;
+}
+#gallery_img{
+	width: 844px;
+	height: 500px;
+	float: left;
+	position: relative;
+}
+.gallery_img_style{
+	width: 844px;
+	height: 500px;
+	border-radius: 3px;
+	position: absolute;
+}
+#lefty{
+	height: 30px;
+	width: 30px;
+	position: absolute;
+	top: 235px;
+	left: 10px;
+}
+#righty{
+	height: 30px;
+	width: 30px;
+	position: absolute;
+	top: 235px;
+	right: 10px;
+}
+#large_icons{
+	height: 16px;
+	width: 16px;
+	position: absolute;
+	top: 478px;
+	right: 11px;
+}
